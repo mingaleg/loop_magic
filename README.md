@@ -1,4 +1,4 @@
-```
+```python
 from loop_magic import Loop
 
 
